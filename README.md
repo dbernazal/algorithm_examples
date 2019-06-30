@@ -3,6 +3,8 @@
 A set of common algorithm questions written in ELixir. This repository includes descriptions, implementations and tests for the following algorithm questions.
 
 [Deepest Pit]()
+[0-1 Knapsack]()
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed

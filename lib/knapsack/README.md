@@ -1,0 +1,2 @@
+# 0-1 Knapsack Problem | DP-10
+Given a Knapsack of a maximum capacity of W and N items each with its own value and weight, throw in items inside the Knapsack such that the final contents has the maximum value. Write a function to return the optimal value.
