@@ -1,4 +1,4 @@
-# AlgorithmExamples ![](https://github.com/dbernazal/algorithm_examples/workflows/CI/badge.svg)
+# Algorithm Examples ![](https://github.com/dbernazal/algorithm_examples/workflows/ci/badge.svg)
 
 A set of common algorithm questions written in Elixir. This repository includes descriptions, implementations and tests for the following algorithm questions:
 
