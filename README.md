@@ -3,8 +3,8 @@
 A set of common algorithm questions written in Elixir. This repository includes descriptions, implementations and tests for the following algorithm questions:
 
 [Deepest Pit](https://github.com/dbernazal/algorithm_examples/tree/master/lib/pit)  
-[0-1 Knapsack](https://github.com/dbernazal/algorithm_examples/tree/master/lib/knapsack)
-[Two Sums](https://github.com/dbernazal/algorithm_examples/tree/master/lib/two_sums)
+[0-1 Knapsack](https://github.com/dbernazal/algorithm_examples/tree/master/lib/knapsack)  
+[Two Sum](https://github.com/dbernazal/algorithm_examples/tree/master/lib/two_sum)
 
 ## Installation
 
